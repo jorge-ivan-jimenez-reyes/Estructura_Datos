@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jorge\\Desktop\\UP_Jorge\\Estructura de Datos\\tarea3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D497A2C-3014-4539-98C0-FEF144F37910}|tarea3.vcxproj|C:\\Users\\jorge\\Desktop\\UP_Jorge\\Estructura de Datos\\tarea3\\registros.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5D497A2C-3014-4539-98C0-FEF144F37910}|tarea3.vcxproj|solutionrelative:registros.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D497A2C-3014-4539-98C0-FEF144F37910}|tarea3.vcxproj|C:\\Users\\jorge\\Desktop\\UP_Jorge\\Estructura de Datos\\tarea3\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5D497A2C-3014-4539-98C0-FEF144F37910}|tarea3.vcxproj|solutionrelative:Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D497A2C-3014-4539-98C0-FEF144F37910}|tarea3.vcxproj|C:\\Users\\jorge\\Desktop\\UP_Jorge\\Estructura de Datos\\tarea3\\registros.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5D497A2C-3014-4539-98C0-FEF144F37910}|tarea3.vcxproj|solutionrelative:registros.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\jorge\\Desktop\\UP_Jorge\\Estructura de Datos\\tarea3\\Source.cpp",
+              "RelativeDocumentMoniker": "Source.cpp",
+              "ToolTip": "C:\\Users\\jorge\\Desktop\\UP_Jorge\\Estructura de Datos\\tarea3\\Source.cpp",
+              "RelativeToolTip": "Source.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-27T16:22:33.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "registros.h",
+              "DocumentMoniker": "C:\\Users\\jorge\\Desktop\\UP_Jorge\\Estructura de Datos\\tarea3\\registros.h",
+              "RelativeDocumentMoniker": "registros.h",
+              "ToolTip": "C:\\Users\\jorge\\Desktop\\UP_Jorge\\Estructura de Datos\\tarea3\\registros.h",
+              "RelativeToolTip": "registros.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-02-27T16:22:30.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "registros.cpp",
+              "DocumentMoniker": "C:\\Users\\jorge\\Desktop\\UP_Jorge\\Estructura de Datos\\tarea3\\registros.cpp",
+              "RelativeDocumentMoniker": "registros.cpp",
+              "ToolTip": "C:\\Users\\jorge\\Desktop\\UP_Jorge\\Estructura de Datos\\tarea3\\registros.cpp",
+              "RelativeToolTip": "registros.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-02-27T16:22:23.85Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

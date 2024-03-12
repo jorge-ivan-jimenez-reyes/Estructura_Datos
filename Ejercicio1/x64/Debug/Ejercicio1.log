@@ -1,0 +1,16 @@
+﻿  Ejercicio1.cpp
+  Source.cpp
+  Generando código...
+C:\Users\jorge\Desktop\UP_Jorge\Estructura de Datos\Ejercicio1\Ejercicio1.h(9,1): error C2143: error de sintaxis: falta ';' delante de '}'
+  (compilando archivo de origen "Ejercicio1.cpp")
+  
+C:\Users\jorge\Desktop\UP_Jorge\Estructura de Datos\Ejercicio1\Ejercicio1.h(9,1): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+  (compilando archivo de origen "Ejercicio1.cpp")
+  
+C:\Users\jorge\Desktop\UP_Jorge\Estructura de Datos\Ejercicio1\Ejercicio1.cpp(4,1): error C1004: se encontró un final de archivo no esperado
+C:\Users\jorge\Desktop\UP_Jorge\Estructura de Datos\Ejercicio1\Ejercicio1.h(9,1): error C2143: error de sintaxis: falta ';' delante de '}'
+  (compilando archivo de origen "Source.cpp")
+  
+C:\Users\jorge\Desktop\UP_Jorge\Estructura de Datos\Ejercicio1\Ejercicio1.h(9,1): error C4430: falta el especificador de tipo; se presupone int. Nota: C++ no admite default-int
+  (compilando archivo de origen "Source.cpp")
+  

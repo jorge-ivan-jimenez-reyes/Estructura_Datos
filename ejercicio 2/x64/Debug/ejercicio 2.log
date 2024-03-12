@@ -1,0 +1,13 @@
+﻿  arregloordenado.cpp
+  Source.cpp
+C:\Users\jorge\Desktop\UP_Jorge\Estructura de Datos\ejercicio 2\arregloordenado.cpp(17,3): error C2065: 'pos': identificador no declarado
+C:\Users\jorge\Desktop\UP_Jorge\Estructura de Datos\ejercicio 2\arregloordenado.cpp(23,32): error C2065: 'pos': identificador no declarado
+C:\Users\jorge\Desktop\UP_Jorge\Estructura de Datos\ejercicio 2\arregloordenado.cpp(24,11): error C2106: '=': el operando izquierdo debe ser valor L
+C:\Users\jorge\Desktop\UP_Jorge\Estructura de Datos\ejercicio 2\arregloordenado.cpp(24,24): error C2059: error de sintaxis: ';'
+C:\Users\jorge\Desktop\UP_Jorge\Estructura de Datos\ejercicio 2\arregloordenado.cpp(27,10): error C2065: 'pos': identificador no declarado
+C:\Users\jorge\Desktop\UP_Jorge\Estructura de Datos\ejercicio 2\arregloordenado.cpp(34,16): error C2601: 'Arreglo::Mostrar': las definiciones de funciones locales no son válidas
+  C:\Users\jorge\Desktop\UP_Jorge\Estructura de Datos\ejercicio 2\arregloordenado.cpp(10,1):
+  esta línea contiene un elemento '{' y no se ha encontrado su elemento de cierre
+  
+C:\Users\jorge\Desktop\UP_Jorge\Estructura de Datos\ejercicio 2\arregloordenado.cpp(10,1): error C1075: "{": no se encontró ningún token coincidente
+  Generando código...

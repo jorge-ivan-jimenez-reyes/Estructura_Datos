@@ -1,0 +1,14 @@
+C:\Users\jorge\Desktop\UP_Jorge\Estructura de Datos\dani\bin\Debug\net8.0\dani.exe
+C:\Users\jorge\Desktop\UP_Jorge\Estructura de Datos\dani\bin\Debug\net8.0\dani.deps.json
+C:\Users\jorge\Desktop\UP_Jorge\Estructura de Datos\dani\bin\Debug\net8.0\dani.runtimeconfig.json
+C:\Users\jorge\Desktop\UP_Jorge\Estructura de Datos\dani\bin\Debug\net8.0\dani.dll
+C:\Users\jorge\Desktop\UP_Jorge\Estructura de Datos\dani\bin\Debug\net8.0\dani.pdb
+C:\Users\jorge\Desktop\UP_Jorge\Estructura de Datos\dani\obj\Debug\net8.0\dani.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jorge\Desktop\UP_Jorge\Estructura de Datos\dani\obj\Debug\net8.0\dani.AssemblyInfoInputs.cache
+C:\Users\jorge\Desktop\UP_Jorge\Estructura de Datos\dani\obj\Debug\net8.0\dani.AssemblyInfo.cs
+C:\Users\jorge\Desktop\UP_Jorge\Estructura de Datos\dani\obj\Debug\net8.0\dani.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Desktop\UP_Jorge\Estructura de Datos\dani\obj\Debug\net8.0\dani.dll
+C:\Users\jorge\Desktop\UP_Jorge\Estructura de Datos\dani\obj\Debug\net8.0\refint\dani.dll
+C:\Users\jorge\Desktop\UP_Jorge\Estructura de Datos\dani\obj\Debug\net8.0\dani.pdb
+C:\Users\jorge\Desktop\UP_Jorge\Estructura de Datos\dani\obj\Debug\net8.0\dani.genruntimeconfig.cache
+C:\Users\jorge\Desktop\UP_Jorge\Estructura de Datos\dani\obj\Debug\net8.0\ref\dani.dll

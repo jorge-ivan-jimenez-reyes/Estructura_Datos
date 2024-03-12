@@ -1,0 +1,5 @@
+﻿  Apuntador.cpp
+  Source.cpp
+C:\Users\jorge\Desktop\UP_Jorge\Estructura de Datos\EjemplosApuntadores\Source.cpp(4,1): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+  Generando código...
+  EjemplosApuntadores.vcxproj -> C:\Users\jorge\Desktop\UP_Jorge\Estructura de Datos\EjemplosApuntadores\x64\Debug\EjemplosApuntadores.exe
