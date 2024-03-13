@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jorge\\Desktop\\UP_Jorge\\Estructura_Datos\\Parcial2_1\\Project2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D635282-28A3-4E91-926A-7B9AD1F11145}|Project2.vcxproj|C:\\Users\\jorge\\Desktop\\UP_Jorge\\Estructura_Datos\\Parcial2_1\\Project2\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D635282-28A3-4E91-926A-7B9AD1F11145}|Project2.vcxproj|solutionrelative:Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D635282-28A3-4E91-926A-7B9AD1F11145}|Project2.vcxproj|C:\\Users\\jorge\\Desktop\\UP_Jorge\\Estructura_Datos\\Parcial2_1\\Project2\\ColaCircular.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D635282-28A3-4E91-926A-7B9AD1F11145}|Project2.vcxproj|solutionrelative:ColaCircular.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D635282-28A3-4E91-926A-7B9AD1F11145}|Project2.vcxproj|C:\\Users\\jorge\\Desktop\\UP_Jorge\\Estructura_Datos\\Parcial2_1\\Project2\\ColaCircular.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3D635282-28A3-4E91-926A-7B9AD1F11145}|Project2.vcxproj|solutionrelative:ColaCircular.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\jorge\\Desktop\\UP_Jorge\\Estructura_Datos\\Parcial2_1\\Project2\\Source.cpp",
+              "RelativeDocumentMoniker": "Source.cpp",
+              "ToolTip": "C:\\Users\\jorge\\Desktop\\UP_Jorge\\Estructura_Datos\\Parcial2_1\\Project2\\Source.cpp",
+              "RelativeToolTip": "Source.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAgwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-13T16:30:18.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ColaCircular.h",
+              "DocumentMoniker": "C:\\Users\\jorge\\Desktop\\UP_Jorge\\Estructura_Datos\\Parcial2_1\\Project2\\ColaCircular.h",
+              "RelativeDocumentMoniker": "ColaCircular.h",
+              "ToolTip": "C:\\Users\\jorge\\Desktop\\UP_Jorge\\Estructura_Datos\\Parcial2_1\\Project2\\ColaCircular.h",
+              "RelativeToolTip": "ColaCircular.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-13T16:30:01.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ColaCircular.cpp",
+              "DocumentMoniker": "C:\\Users\\jorge\\Desktop\\UP_Jorge\\Estructura_Datos\\Parcial2_1\\Project2\\ColaCircular.cpp",
+              "RelativeDocumentMoniker": "ColaCircular.cpp",
+              "ToolTip": "C:\\Users\\jorge\\Desktop\\UP_Jorge\\Estructura_Datos\\Parcial2_1\\Project2\\ColaCircular.cpp",
+              "RelativeToolTip": "ColaCircular.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-13T16:30:06.096Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
