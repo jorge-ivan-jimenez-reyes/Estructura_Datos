@@ -1,25 +1,21 @@
 #pragma once
-#include <iostream>
-using namespace std;
+#include <string>
 
-
-struct Palabra
-{
-	string pal;
-	Palabra* sig;
-};
-
-class Lista
+class lista 
 {
 public:
-	Lista();
-	void InsertarInicio(string);
-	int InsertarInter(string, string);
-	int InsertarFinal(string);
-
+    lista(); 
+    ~lista(); 
+    void insertar_al_inicio(std::string); 
+    void insertar_en_posicion(std::string, int); 
+    void insertar_al_final(std::string);
+    void imprimir() const;
 private:
-	Palabra* cabecera, * final, * nodo;
+    struct nodo 
+    {
+        std::string dato;
+        nodo* siguiente{}; 
+    };
 
-
+    nodo* cabeza_;
 };
-
