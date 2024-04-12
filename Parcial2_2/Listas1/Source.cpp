@@ -35,7 +35,7 @@ int main()
             cout << "Ingrese la posición: ";
             int pos;
             cin >> pos;
-            l.insertar_en_posicion(x, pos - 1); // Ajustado para coincidir con la base 0 de los índices en C++
+            l.insertar_en_posicion(x, pos - 1); 
             break;
         case 3:
             cout << "Ingrese el texto a insertar: ";

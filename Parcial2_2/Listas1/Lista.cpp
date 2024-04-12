@@ -28,48 +28,48 @@ void lista::insertar_en_posicion(string x, const int posicion)
 
 	if (cabeza_ == nullptr) 
 	{
-		cabeza_ = temp; // Cambié "head_" por "cabeza_"
+		cabeza_ = temp; 
 	}
 	else
 	{
-		nodo* temp1 = cabeza_; // Cambié "node" por "nodo" y "head_" por "cabeza_"
-		for (int i = 0; i < posicion - 1; i++) // Cambié "position" por "posicion"
+		nodo* temp1 = cabeza_;
+		for (int i = 0; i < posicion - 1; i++) 
 		{
-			temp1 = temp1->siguiente; // Cambié "next" por "siguiente"
+			temp1 = temp1->siguiente; 
 		}
-		temp->siguiente = temp1->siguiente; // Cambié "next" por "siguiente"
-		temp1->siguiente = temp; // Cambié "next" por "siguiente"
+		temp->siguiente = temp1->siguiente;
+		temp1->siguiente = temp;
 	}
 }
 
-void lista::insertar_al_final(std::string x) // Cambié "insert_at_end" por "insertar_al_final"
+void lista::insertar_al_final(std::string x) 
 {
-	const auto temp = new nodo; // Cambié "node" por "nodo"
-	temp->dato = std::move(x); // Cambié "data" por "dato"
-	temp->siguiente = nullptr; // Cambié "next" por "siguiente"
+	const auto temp = new nodo;
+	temp->dato = std::move(x); 
+	temp->siguiente = nullptr; 
 
-	if (cabeza_ == nullptr) // Cambié "head_" por "cabeza_"
+	if (cabeza_ == nullptr) 
 	{
-		cabeza_ = temp; // Cambié "head_" por "cabeza_"
+		cabeza_ = temp; 
 	}
 	else
 	{
-		nodo* temp1 = cabeza_; // Cambié "node" por "nodo" y "head_" por "cabeza_"
-		while (temp1->siguiente != nullptr) // Cambié "next" por "siguiente"
+		nodo* temp1 = cabeza_;
+		while (temp1->siguiente != nullptr) 
 		{
-			temp1 = temp1->siguiente; // Cambié "next" por "siguiente"
+			temp1 = temp1->siguiente; 
 		}
-		temp1->siguiente = temp; // Cambié "next" por "siguiente"
+		temp1->siguiente = temp; 
 	}
 }
 
-void lista::imprimir() const // Cambié "print" por "imprimir"
+void lista::imprimir() const
 {
-	const nodo* temp = cabeza_; // Cambié "node" por "nodo" y "head_" por "cabeza_"
+	const nodo* temp = cabeza_; 
 	while (temp != nullptr)
 	{
-		cout << temp->dato << "\t"; // Cambié "data" por "dato"
-		temp = temp->siguiente; // Cambié "next" por "siguiente"
+		cout << temp->dato << "\t";
+		temp = temp->siguiente; 
 	}
 	cout << endl;
 }
