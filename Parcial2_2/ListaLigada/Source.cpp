@@ -1,16 +1,19 @@
 #include "Listas.h"
+
 #include <iostream>
 #include <string>
-
 using namespace std;
+
 
 // Empleando C++ construye una aplicación que opere una Lista Ligada de números enteros.
 // Las inserciones siempre deben hacerse de manera que la lista se mantenga en orden ascendente o creciente,
 // es decir, de menor a mayor. Las operaciones disponibles deben ser Mostrar, Insertar y Extraer.
 
+
+
 int main()
 {
-    list myList; // Usando 'myList' como el nombre válido para la instancia de la lista
+    list l;
     string x;
     int eleccion;
 
@@ -26,29 +29,17 @@ int main()
         switch (eleccion)
         {
         case 1:
-            myList.mostrar();
+            l.mostrar();
             break;
         case 2:
             cout << "Número a insertar: ";
             cin >> x;
-            try {
-                int num = stoi(x); // Convierte el string a entero, maneja excepciones si no es un número válido
-                myList.insertar(num);
-            }
-            catch (const invalid_argument& ia) {
-                cout << "Por favor, ingrese un número válido." << endl;
-            }
+            l.insertar(stoi(x));
             break;
         case 3:
             cout << "Número a extraer: ";
             cin >> x;
-            try {
-                int num = stoi(x);
-                myList.extraer(num);
-            }
-            catch (const invalid_argument& ia) {
-                cout << "Por favor, ingrese un número válido." << endl;
-            }
+            l.extraer(stoi(x));
             break;
         default:
             cout << "Elección inválida" << endl;

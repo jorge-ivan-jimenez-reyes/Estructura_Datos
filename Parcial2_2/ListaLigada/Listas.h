@@ -3,19 +3,19 @@
 class list
 {
 public:
-    list(); // Constructor
-    ~list(); // Destructor
+    list(); 
+    ~list();
 
-    void insertar(int); // Inserta un elemento en la lista manteniendo el orden ascendente
-    int extraer(int); // Extrae un elemento de la lista y retorna su valor
-    void mostrar() const; // Muestra todos los elementos de la lista
+    void insertar(int x);
+    int extraer(int x); 
+    void mostrar() const; 
 
 private:
-    struct node // Estructura para los nodos de la lista
+    struct node 
     {
-        int data{}; // Datos almacenados en el nodo
-        node* next{}; // Puntero al siguiente nodo
+        int data{}; 
+        node* next{}; 
     };
 
-    node* head_; // Puntero al primer nodo de la lista
+    node* head_; 
 };
