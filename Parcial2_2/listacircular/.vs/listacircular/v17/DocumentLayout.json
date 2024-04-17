@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jorge\\Desktop\\UP_Jorge\\Estructura_Datos\\Parcial2_2\\listacircular\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACBB9FD4-8E1B-4E0E-BEF6-6E1A379D907A}|listacircular.vcxproj|C:\\Users\\jorge\\Desktop\\UP_Jorge\\Estructura_Datos\\Parcial2_2\\listacircular\\circular.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ACBB9FD4-8E1B-4E0E-BEF6-6E1A379D907A}|listacircular.vcxproj|solutionrelative:circular.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "circular.cpp",
+              "DocumentMoniker": "C:\\Users\\jorge\\Desktop\\UP_Jorge\\Estructura_Datos\\Parcial2_2\\listacircular\\circular.cpp",
+              "RelativeDocumentMoniker": "circular.cpp",
+              "ToolTip": "C:\\Users\\jorge\\Desktop\\UP_Jorge\\Estructura_Datos\\Parcial2_2\\listacircular\\circular.cpp",
+              "RelativeToolTip": "circular.cpp",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-16T17:18:00.092Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
