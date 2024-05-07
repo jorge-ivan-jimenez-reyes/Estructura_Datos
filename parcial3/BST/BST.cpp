@@ -10,14 +10,17 @@ BST::~BST() {
 void BST::insert(Libro libro) {
     root = insertRecursive(root, libro);
 }
+//toma un ñibro como parametro y llama al metodo privado insertRecursive 
 
 bool BST::search(int id) const {
     return searchRecursive(root, id) != nullptr;
 }
+//recibe un id y llama al metodo privado removeRecursive pasando la raiz y el id 
 
 void BST::remove(int id) {
     root = removeRecursive(root, id);
 }
+//elimina el libro del arbol por su id llamando al metodo privado removeRecursive
 
 void BST::printInOrder() const {
     inOrderTraversal(root);
@@ -32,6 +35,8 @@ Node* BST::insertRecursive(Node* node, Libro libro) {
         node->right = insertRecursive(node->right, libro);
     return node;
 }
+//primero verifica si es null si lo es crea un nuevo nodo con el libro y lo devuleve  para ser conectado al arbol 
+//si no es compara el id con el nodo actual para decidir si debe insertar el libro el el subarbol izquierdo o derecho
 
 Node* BST::searchRecursive(Node* node, int id) const {
     if (!node || node->libro.id == id)
@@ -41,6 +46,7 @@ Node* BST::searchRecursive(Node* node, int id) const {
     else
         return searchRecursive(node->right, id);
 }
+//veirifica si es null o id si encuentra una coincidencia devuelve el nodo indicando que encontro el libro
 
 Node* BST::removeRecursive(Node* node, int id) {
     if (!node) return nullptr;
@@ -48,6 +54,10 @@ Node* BST::removeRecursive(Node* node, int id) {
         node->left = removeRecursive(node->left, id);
     else if (id > node->libro.id)
         node->right = removeRecursive(node->right, id);
+    //busca el nodo a eliminar
+    //si tiene 2 hijos encuentra el nodo mas pequeño del subarbol derecho y lo reemplaza por el nodo a eliminar
+    // si no tiene hijos lo elimina y devuelve null
+    //
     else {
         if (!node->left) {
             Node* temp = node->right;
