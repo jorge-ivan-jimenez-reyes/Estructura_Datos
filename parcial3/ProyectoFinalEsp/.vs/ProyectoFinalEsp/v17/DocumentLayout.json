@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{F4BCCE2E-8FB0-4231-8DA2-D0546B0AD68E}|ProyectoFinalEsp.vcxproj|solutionrelative:Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4BCCE2E-8FB0-4231-8DA2-D0546B0AD68E}|ProyectoFinalEsp.vcxproj|C:\\Users\\jorge\\Desktop\\UP_Jorge\\Estructura_Datos\\parcial3\\ProyectoFinalEsp\\ArbolBinario.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F4BCCE2E-8FB0-4231-8DA2-D0546B0AD68E}|ProyectoFinalEsp.vcxproj|solutionrelative:ArbolBinario.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F4BCCE2E-8FB0-4231-8DA2-D0546B0AD68E}|ProyectoFinalEsp.vcxproj|C:\\Users\\jorge\\Desktop\\UP_Jorge\\Estructura_Datos\\parcial3\\ProyectoFinalEsp\\ArbolBinario.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F4BCCE2E-8FB0-4231-8DA2-D0546B0AD68E}|ProyectoFinalEsp.vcxproj|solutionrelative:ArbolBinario.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4BCCE2E-8FB0-4231-8DA2-D0546B0AD68E}|ProyectoFinalEsp.vcxproj|C:\\Users\\jorge\\Desktop\\UP_Jorge\\Estructura_Datos\\parcial3\\ProyectoFinalEsp\\ArbolBinario.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F4BCCE2E-8FB0-4231-8DA2-D0546B0AD68E}|ProyectoFinalEsp.vcxproj|solutionrelative:ArbolBinario.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ArbolBinario.cpp",
               "DocumentMoniker": "C:\\Users\\jorge\\Desktop\\UP_Jorge\\Estructura_Datos\\parcial3\\ProyectoFinalEsp\\ArbolBinario.cpp",
               "RelativeDocumentMoniker": "ArbolBinario.cpp",
@@ -34,8 +34,7 @@
               "RelativeToolTip": "ArbolBinario.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAG8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-28T00:51:34.119Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-28T00:51:34.119Z"
             },
             {
               "$type": "Document",
@@ -45,14 +44,14 @@
               "RelativeDocumentMoniker": "Source.cpp",
               "ToolTip": "C:\\Users\\jorge\\Desktop\\UP_Jorge\\Estructura_Datos\\parcial3\\ProyectoFinalEsp\\Source.cpp",
               "RelativeToolTip": "Source.cpp",
-              "ViewState": "AQIAADwAAAAAAAAAAAAAAEYAAAAAAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACMAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-05-28T00:42:09.19Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ArbolBinario.h",
               "DocumentMoniker": "C:\\Users\\jorge\\Desktop\\UP_Jorge\\Estructura_Datos\\parcial3\\ProyectoFinalEsp\\ArbolBinario.h",
               "RelativeDocumentMoniker": "ArbolBinario.h",
@@ -60,8 +59,7 @@
               "RelativeToolTip": "ArbolBinario.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-28T00:42:03.207Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-28T00:42:03.207Z"
             }
           ]
         }
